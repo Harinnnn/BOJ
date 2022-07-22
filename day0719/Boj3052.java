@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Boj3052 {
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
         HashSet<Integer> h = new HashSet<Integer>();
 

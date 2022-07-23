@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edb62a72-5f50-44a9-8822-dfb65a997e26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/day0719/Boj3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/day0719/Boj3052.java" afterDir="false" />
-    </list>
+    <list default="true" id="edb62a72-5f50-44a9-8822-dfb65a997e26" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,17 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leeharin/Desktop/Programming/BOJ",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leeharin/Desktop/Programming/BOJ&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="firstTry.day0717" />
@@ -116,6 +114,8 @@
       <workItem from="1658328880261" duration="597000" />
       <workItem from="1658388935950" duration="3285000" />
       <workItem from="1658395880121" duration="2568000" />
+      <workItem from="1658450093278" duration="5373000" />
+      <workItem from="1658458909578" duration="606000" />
     </task>
     <servers />
   </component>
